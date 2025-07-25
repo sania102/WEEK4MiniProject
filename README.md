@@ -2,7 +2,12 @@
 
 This is my project  of **Week 4 – Unsupervised Learning** from the AI-ML internship assignment (GNCIPL). It focuses on clustering resume text data into meaningful career paths like **Software**, **Marketing**, **HR**, and **Design**, using KMeans and t-SNE.
 
----
+# deployment on streamlit link:
+https://week4miniprojectsania.streamlit.app/
+
+# google collab link :
+https://colab.research.google.com/drive/13Dc03ONoEFJ4JYrQoDsEp9_JXoZrrwEk?usp=sharing
+
 
 ##  Project Overview
 
